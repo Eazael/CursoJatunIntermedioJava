@@ -1,4 +1,4 @@
 #BlueJ class context
 comment0.params=numero
-comment0.target=int\ CalcularFactorialRecursivamente(int)
+comment0.target=int\ calcularFactorialRecursivamente(int)
 numComments=1

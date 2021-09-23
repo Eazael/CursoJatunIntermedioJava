@@ -12,7 +12,7 @@ public class Factorial
         int resultado;
         
         if (numero > 1) {
-            resultado = numero * CalcularFactorialRecursivamente(numero - 1);
+            resultado = numero * calcularFactorialRecursivamente(numero - 1);
         } else {
             resultado = 1;
         }
