@@ -8,7 +8,7 @@
 public class Factorial
 {
     // instance variables - replace the example below with your own
-    public int CalcularFactorialRecursivamente(int numero) {
+    public int calcularFactorialRecursivamente(int numero) {
         int resultado;
         
         if (numero > 1) {
