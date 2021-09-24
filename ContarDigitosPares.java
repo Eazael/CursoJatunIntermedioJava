@@ -19,10 +19,6 @@ public class ContarDigitosPares
     }
     
     private int verificarDigitoPar(int digito) {
-        int resultado = 0;
-        if (digito % 2 == 0) {
-            resultado = 1;
-        }
-        return resultado;
+        return (digito % 2 == 0) ? 1 : 0;
     }
 }

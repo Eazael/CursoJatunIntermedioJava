@@ -19,14 +19,8 @@ public class NumerosMalvadosOdiosos
     }
     
     private int contarUnos(int numero) {
-        int cantidadUnos;
-        int digitoActual = numero % 10;
+        int cantidadUnos = numero % 10;
         int numeroActualizado = numero / 10;
-        if (digitoActual == 1) {
-            cantidadUnos = 1;
-        } else {
-            cantidadUnos = 0;
-        }
         if (numeroActualizado > 0) {
             cantidadUnos += contarUnos(numeroActualizado);
         }
