@@ -10,17 +10,19 @@ public class ContarDigitosPares
 
     public int contarDigitosPares(int numero)
     {
-        int resultado;
-        int digitoActual = numero % 10;
+        int resultado = verificarDigitoPar(numero % 10);
         int numeroActualizado = numero / 10;
-        if (digitoActual % 2 == 0) {
-            resultado = 1;
-        } else {
-            resultado = 0;
-        }
         if (numeroActualizado > 0) {
-            resultado += contarDigitosPares(numeroActualizado);
+            resultado +=  contarDigitosPares(numeroActualizado);
         } 
+        return resultado;
+    }
+    
+    private int verificarDigitoPar(int digito) {
+        int resultado = 0;
+        if (digito % 2 == 0) {
+            resultado = 1;
+        }
         return resultado;
     }
 }
