@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numero
+comment0.target=int\ obtenerNumeroInverso(int)
+comment1.params=numero\ numeroInvertido
+comment1.target=int\ invertirNumero(int,\ int)
+numComments=2
