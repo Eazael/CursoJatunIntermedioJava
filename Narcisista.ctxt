@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numero
+comment0.target=java.lang.String\ calcularNarcisista(int)
+comment1.params=numero\ potencia
+comment1.target=int\ sumarDigitosExponenetes(int,\ int)
+comment2.params=numero
+comment2.target=int\ contarNumeroDigitos(int)
+numComments=3
