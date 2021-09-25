@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=numero
+comment0.target=java.lang.String\ identificarTipoDeNumero(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OlasDelMar\r\n
+comment1.params=numero\ digitoALaDerecha
+comment1.target=boolean\ identificarSiEsCreciente(int,\ int)
+numComments=2
