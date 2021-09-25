@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=numeroA\ numeroB
+comment0.target=java.lang.String\ verificarSiDosNumerosSonAmigos(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumerosAmigos\r\n
+comment1.params=numero\ divisorAnterior
+comment1.target=int\ calcularSumaDeDivisores(int,\ int)
+numComments=2
