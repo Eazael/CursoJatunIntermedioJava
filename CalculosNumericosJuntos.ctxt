@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numero\ divisorAnterior
+comment0.target=int\ calcularSumaDeDivisores(int,\ int)
+comment1.params=numero
+comment1.target=java.lang.String\ tiposDeNumeros(int)
+comment2.params=numeroA\ numeroB
+comment2.target=java.lang.String\ numerosNovios(int,\ int)
+comment3.params=numeroA\ numeroB
+comment3.target=java.lang.String\ verificarSiDosNumerosSonAmigos(int,\ int)
+numComments=4
