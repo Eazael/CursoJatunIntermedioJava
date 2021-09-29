@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numero
+comment0.target=java.lang.String\ verificarNumeroUnicornio(int)
+comment1.params=numero\ posicionActual\ posicionInicialMedio\ digitosRestantesMedio
+comment1.target=int\ sumaDigitosCentro(int,\ int,\ int,\ int)
+comment2.params=numero
+comment2.target=int\ contarDigitos(int)
+numComments=3
