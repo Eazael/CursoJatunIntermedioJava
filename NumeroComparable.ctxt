@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=valor
+comment0.target=void\ setValor(int)
+comment1.params=
+comment1.target=int\ getValor()
+comment2.params=valorInicial
+comment2.target=NumeroComparable(int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumeroComparable\r\n
+comment3.params=otroValor
+comment3.target=int\ compareTo(NumeroComparable)
+comment4.params=valor1\ valor2
+comment4.target=int\ compararValoresNormales(int,\ int)
+numComments=5
